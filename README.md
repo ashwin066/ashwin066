@@ -40,6 +40,6 @@
 
  <br>
  <p style="display: flex; justify-content: center; align-items: center; padding:10px;">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwin066&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" height="200" width="100%"/>
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwin066&theme=dark" alt="GitHub Streak" height="200" width="100%"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwin066&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" height="200" width="50%"/>
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwin066&theme=dark" alt="GitHub Streak" height="200" width="50%"/>
  </p>
