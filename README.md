@@ -1,6 +1,6 @@
  ![ezgif-3-462afb9191](https://github.com/ashwin066/ashwin066/assets/93830211/1ba64b7a-e0d5-44d5-8eb0-8dbc41832591)
 <div align="center" >
-<img align="center" alt="Hi 👋, I'm Ashwin Ramesh" width="400"  src="https://github.com/ashwin066/ashwin066/assets/93830211/434aea43-d159-4b9b-837f-1062a0b1077b"  />
+<img align="center" alt="Hi 👋, I'm Ashwin Ramesh" width="400"  src="https://github.com/ashwin066/ashwin066/assets/93830211/381359fa-1a3d-45c4-9776-e1a7f0d48613"  />
 
  
 </div>
