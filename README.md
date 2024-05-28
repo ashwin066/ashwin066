@@ -3,7 +3,7 @@
 
 ![ezgif-3-90ef15b609](https://github.com/ashwin066/ashwin066/assets/93830211/d806285c-9b52-43af-9425-6d4122891283)
 
-<div class="d-flex">
+<div class="d-flex" align="left">
  
 <div>
 <p align="left"> <a href="https://twitter.com/ashwin_r06" target="blank"><img src="https://img.shields.io/twitter/follow/ashwin_r06?logo=twitter&style=for-the-badge" alt="ashwin_r06" /></a> </p>
@@ -16,10 +16,12 @@
 
 - 📫 How to reach me **ashwinramesh660@gmail.com**
 </div>
+<div align="right">
+ 
 
 ![image](https://github.com/ashwin066/ashwin066/assets/93830211/25cf4970-7725-4db5-b6e9-e084b4e2118b)
 
-
+</div>
 </div>
 
 <h3 align="left">Connect with me:</h3>
