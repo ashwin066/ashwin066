@@ -3,13 +3,9 @@
 
 <h1 align="center">Hi 👋, I'm Ashwin Ramesh</h1>
 <h3 align="center">A passionate App/Web developer</h3>
- <style>
-td, th {
-   border: none!important;
-}
-</style>
+ 
 
-<table border=0>
+<table >
   <tr>
     <td valign="top">
       <p align="left">
@@ -44,14 +40,6 @@ td, th {
 
  <br>
 
- <table>
-  <tr>
-    <td valign="top">
-       <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwin066&show_icons=true&theme=dark&locale=en&layout=compact" alt="ashwin066" /></p>
-    </td>
-    <td valign="top">
-      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwin066&theme=dark" alt="ashwin066" /></p>
-       </td>
-       </tr>
-       </table>
- 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwin066&show_icons=true&theme=dark&locale=en&layout=compact" alt="ashwin066" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwin066&theme=dark" alt="ashwin066" /></p>
