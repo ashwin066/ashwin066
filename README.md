@@ -4,7 +4,8 @@
 ![ezgif-3-90ef15b609](https://github.com/ashwin066/ashwin066/assets/93830211/d806285c-9b52-43af-9425-6d4122891283)
 
 <div style="display:flex;">
-
+ 
+<div>
 <p align="left"> <a href="https://twitter.com/ashwin_r06" target="blank"><img src="https://img.shields.io/twitter/follow/ashwin_r06?logo=twitter&style=for-the-badge" alt="ashwin_r06" /></a> </p>
 
 - 🌱 I’m currently learning **App/Web Development, Flutter, React, React Native, Java, Typescript, Next JS, Express, Node JS**
@@ -14,6 +15,7 @@
 - 💬 Ask me about **Flutter, React, React Native, Java, Typescript, Next JS, Express, Node JS**
 
 - 📫 How to reach me **ashwinramesh660@gmail.com**
+</div>
 
  ![booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster](https://github.com/ashwin066/ashwin066/assets/93830211/9a9da188-89ea-4244-876f-d6e1b0cb8a70)
 
