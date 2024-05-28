@@ -3,10 +3,28 @@
 
 <h1 align="center">Hi 👋, I'm Ashwin Ramesh</h1>
 <h3 align="center">A passionate App/Web developer</h3> 
- 
+ <div>
+  <div style="display: inline-block; vertical-align: top; width: 49%;">
+    <p align="left"> 
+      <a href="https://twitter.com/ashwin_r06" target="blank">
+        <img src="https://img.shields.io/twitter/follow/ashwin_r06?logo=twitter&style=for-the-badge" alt="ashwin_r06" />
+      </a> 
+    </p>
+    <ul>
+      <li>🌱 I’m currently working on **App/Web Development, Flutter, React, React Native, Java, Typescript, Next JS, Express, Node JS**</li>
+      <li>👨‍💻 All of my projects are available at <a href="https://ashwin-ramesh.web.app/">ashwin-ramesh.web.app</a></li>
+      <li>💬 Ask me about **Flutter, React, React Native, Java, Typescript, Next JS, Express, Node JS ...**</li>
+      <li>📫 How to reach me **ashwinramesh660@gmail.com**</li>
+    </ul>
+  </div>
+  <div style="display: inline-block; vertical-align: top; width: 49%;">
+    <img src="https://github.com/ashwin066/ashwin066/assets/93830211/25cf4970-7725-4db5-b6e9-e084b4e2118b" alt="image" style="max-width: 100%;"/>
+  </div>
+</div>
+
 
 <table >
-  <tr>
+  <tr >
     <td valign="top">
       <p align="left">
         <a href="https://twitter.com/ashwin_r06" target="blank">
