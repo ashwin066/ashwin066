@@ -5,7 +5,7 @@
 <h3 align="center">A passionate App/Web developer</h3>
  
 
-<table>
+<table border=0>
   <tr>
     <td valign="top">
       <p align="left">
