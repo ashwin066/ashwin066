@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ashwin Ramesh</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+ ![ezgif-3-462afb9191](https://github.com/ashwin066/ashwin066/assets/93830211/1ba64b7a-e0d5-44d5-8eb0-8dbc41832591)
 
-![ezgif-3-90ef15b609](https://github.com/ashwin066/ashwin066/assets/93830211/d806285c-9b52-43af-9425-6d4122891283)
+
+<h1 align="center">Hi 👋, I'm Ashwin Ramesh</h1>
+<h3 align="center">A passionate App/Web developer</h3>
+
 
 <div tyle="display: flex; align-items: flex-start;">
  
@@ -12,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ashwin-ramesh.web.app/](https://ashwin-ramesh.web.app/)
 
-- 💬 Ask me about **Flutter, React, React Native, Java, Typescript, Next JS, Express, Node JS**
+- 💬 Ask me about **Flutter, React, React Native, Java, Typescript, Next JS, Express, Node JS ...**
 
 - 📫 How to reach me **ashwinramesh660@gmail.com**
 </div>
@@ -23,6 +25,28 @@
 
 </div>
 </div>
+
+
+<table>
+  <tr>
+    <td valign="top">
+      <p align="left">
+        <a href="https://twitter.com/ashwin_r06" target="blank">
+          <img src="https://img.shields.io/twitter/follow/ashwin_r06?logo=twitter&style=for-the-badge" alt="ashwin_r06" />
+        </a>
+      </p>
+      <ul>
+        <li>🌱 I’m currently working on **App/Web Development, Flutter, React, React Native, Java, Typescript, Next JS, Express, Node JS**</li>
+        <li>👨‍💻 All of my projects are available at <a href="https://ashwin-ramesh.web.app/">https://ashwin-ramesh.web.app/</a></li>
+        <li>💬 Ask me about **Flutter, React, React Native, Java, Typescript, Next JS, Express, Node JS ...**</li>
+        <li>📫 How to reach me **ashwinramesh660@gmail.com**</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <img src="https://github.com/ashwin066/ashwin066/assets/93830211/25cf4970-7725-4db5-b6e9-e084b4e2118b">
+       </td>
+       </tr>
+       </table>
 
 
  
