@@ -6,7 +6,7 @@
       <img align="right" alt="Coding" width="310"  src="https://github.com/ashwin066/ashwin066/assets/93830211/b635d136-5d95-4c16-af7d-70e4a33b002b" alt="ashwin_r06" />
 <p align="left"> <a href="https://twitter.com/ashwin_r06" target="blank"><img src="https://img.shields.io/twitter/follow/ashwin_r06?logo=twitter&style=for-the-badge" alt="ashwin_r06" /></a> </p>
  
-- 🌱 I’m currently learning **App/Web Development, Flutter, React, React Native, Java, Typescript, Next JS, Express, Node JS**
+- 🌱 I’m currently working on **App/Web Development, Flutter, React, React Native, Java, Typescript, Next JS, Express, Node JS**
 
 - 👨‍💻 Some of my projects are showcased at [https://ashwin-ramesh.web.app/](https://ashwin-ramesh.web.app/)
 
