@@ -4,8 +4,12 @@
 
  
 </p>
-![Hi 👋, I'm](https://github.com/ashwin066/ashwin066/assets/93830211/4ac2cbc1-cf4a-40f9-af3b-d16c2d8aa9d4)
+<p align="center" >
+<img align="center" alt="Hi 👋, I'm Ashwin Ramesh" width="400"  src="https://github.com/ashwin066/ashwin066/assets/93830211/79aba9cb-cc90-4599-94b4-42413bd9673a"  />
 
+ 
+</p>
+ 
  <h3 align="center">A passionate App/Web developer</h3> 
       <img align="right"   width="310"  src="https://github.com/ashwin066/ashwin066/assets/93830211/b635d136-5d95-4c16-af7d-70e4a33b002b" alt="ashwin_r06" />
 <p align="left"> <a href="https://twitter.com/ashwin_r06" target="blank"><img src="https://img.shields.io/twitter/follow/ashwin_r06?logo=twitter&style=for-the-badge" alt="ashwin_r06" /></a> </p>
