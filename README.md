@@ -1,6 +1,10 @@
  ![ezgif-3-462afb9191](https://github.com/ashwin066/ashwin066/assets/93830211/1ba64b7a-e0d5-44d5-8eb0-8dbc41832591)
+<p align="center" >
+<img align="center" alt="Hi 👋, I'm Ashwin Ramesh" width="400"  src="https://github.com/ashwin066/ashwin066/assets/93830211/4ac2cbc1-cf4a-40f9-af3b-d16c2d8aa9d4"  />
 
-<img align="center" alt="Hi 👋, I'm Ashwin Ramesh" width="400"  src="https://github.com/ashwin066/ashwin066/assets/93830211/e109c3b4-cc79-4654-a163-1095a7a41a85"  />
+ 
+</p>
+![Hi 👋, I'm](https://github.com/ashwin066/ashwin066/assets/93830211/4ac2cbc1-cf4a-40f9-af3b-d16c2d8aa9d4)
 
  <h3 align="center">A passionate App/Web developer</h3> 
       <img align="right"   width="310"  src="https://github.com/ashwin066/ashwin066/assets/93830211/b635d136-5d95-4c16-af7d-70e4a33b002b" alt="ashwin_r06" />
