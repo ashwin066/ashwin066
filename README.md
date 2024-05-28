@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **App/Web Development, Flutter, React, React Native, Java, Typescript, Next JS, Express, Node JS**
 
-- 👨‍💻 All of my projects are available at [https://ashwin-ramesh.web.app/](https://ashwin-ramesh.web.app/)
+- 👨‍💻 All of my projects are showcased at [https://ashwin-ramesh.web.app/](https://ashwin-ramesh.web.app/)
 
 - 💬 Ask me about **Flutter, React, React Native, Java, Typescript, Next JS, Express, Node JS**
 
@@ -20,7 +20,7 @@
  <br>
  <br>
  <br>
- <br>
+
 
  
 <h3 align="left">Connect with me:</h3>
