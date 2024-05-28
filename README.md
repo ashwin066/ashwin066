@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ashwin Ramesh</h1>
-<h3 align="center">A passionate App/Web developer</h3>
+<h3 align="center">A passionate App/Web developer</h3> 
  
 
 <table >
@@ -21,7 +21,7 @@
       </ul>
     </td>
     <td valign="top"> 
-               <img src="https://github.com/ashwin066/ashwin066/assets/93830211/a437ea82-c8ec-4b32-96c7-cab51fb265b3" alt="ashwin_r06" />
+               <img src="https://github.com/ashwin066/ashwin066/assets/93830211/b635d136-5d95-4c16-af7d-70e4a33b002b" alt="ashwin_r06" />
     </td>
        </tr>
        </table>
