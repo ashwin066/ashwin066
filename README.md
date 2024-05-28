@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashwin Ramesh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwin066&label=Profile%20views&color=0e75b6&style=flat" alt="ashwin066" /> </p>
+![ezgif-3-90ef15b609](https://github.com/ashwin066/ashwin066/assets/93830211/d806285c-9b52-43af-9425-6d4122891283)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwin066" alt="ashwin066" /></a> </p>
+<div style="display:flex;">
 
 <p align="left"> <a href="https://twitter.com/ashwin_r06" target="blank"><img src="https://img.shields.io/twitter/follow/ashwin_r06?logo=twitter&style=for-the-badge" alt="ashwin_r06" /></a> </p>
 
@@ -14,6 +14,10 @@
 - 💬 Ask me about **Flutter, React, React Native, Java, Typescript, Next JS, Express, Node JS**
 
 - 📫 How to reach me **ashwinramesh660@gmail.com**
+
+ ![booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster](https://github.com/ashwin066/ashwin066/assets/93830211/9a9da188-89ea-4244-876f-d6e1b0cb8a70)
+
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
