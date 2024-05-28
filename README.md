@@ -34,6 +34,6 @@
 
  <br>
  <p >
-     <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwin066&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" height="200"  />
-     <img  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwin066&theme=dark" alt="GitHub Streak" height="200" />
+     <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwin066&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" height="170"  />
+     <img  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwin066&theme=dark" alt="GitHub Streak" height="170" />
  </p>
