@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **App/Web Development, Flutter, React, React Native, Java, Typescript, Next JS, Express, Node JS**
 
-- 👨‍💻 All of my projects are showcased at [https://ashwin-ramesh.web.app/](https://ashwin-ramesh.web.app/)
+- 👨‍💻 Some of my projects are showcased at [https://ashwin-ramesh.web.app/](https://ashwin-ramesh.web.app/)
 
 - 💬 Ask me about **Flutter, React, React Native, Java, Typescript, Next JS, Express, Node JS**
 
