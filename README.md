@@ -21,7 +21,7 @@
       </ul>
     </td>
     <td valign="top">
-![image](https://github.com/ashwin066/ashwin066/assets/93830211/3bece23d-5bb2-4039-81e2-271bc1a8d685)
+        ![image](https://github.com/ashwin066/ashwin066/assets/93830211/3bece23d-5bb2-4039-81e2-271bc1a8d685)
        </td>
        </tr>
        </table>
