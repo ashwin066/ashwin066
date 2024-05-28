@@ -8,7 +8,7 @@
  
  
  <h3 align="center">A passionate App/Web developer</h3> 
-      <img align="right"   width="310"  src="https://github.com/ashwin066/ashwin066/assets/93830211/b46bd553-6a73-416c-9a01-eeab29b0efff" alt="ashwin_r06" />
+      <img align="right"   width="310"  src="https://github.com/ashwin066/ashwin066/assets/93830211/9206e7be-d2a2-4acf-9722-488935cfdcd0" alt="ashwin_r06" />
 <p align="left"> <a href="https://twitter.com/ashwin_r06" target="blank"><img src="https://img.shields.io/twitter/follow/ashwin_r06?logo=twitter&style=for-the-badge" alt="ashwin_r06" /></a> </p>
  
 - 🌱 I’m currently working on **App/Web Development, Flutter, React, React Native, Java, Typescript, Next JS, Express, Node JS**
