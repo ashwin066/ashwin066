@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Ashwin Ramesh</h1>
 <h3 align="center">A passionate App/Web developer</h3> 
-      <img align="right" alt="Coding" width="380"  src="https://github.com/ashwin066/ashwin066/assets/93830211/b635d136-5d95-4c16-af7d-70e4a33b002b" alt="ashwin_r06" />
+      <img align="right" alt="Coding" width="340"  src="https://github.com/ashwin066/ashwin066/assets/93830211/b635d136-5d95-4c16-af7d-70e4a33b002b" alt="ashwin_r06" />
 <p align="left"> <a href="https://twitter.com/ashwin_r06" target="blank"><img src="https://img.shields.io/twitter/follow/ashwin_r06?logo=twitter&style=for-the-badge" alt="ashwin_r06" /></a> </p>
 
 - 🌱 I’m currently learning **App/Web Development, Flutter, React, React Native, Java, Typescript, Next JS, Express, Node JS**
@@ -15,7 +15,7 @@
 - 📫 How to reach me **ashwinramesh660@gmail.com**
 
  
- <br>
+ 
  <br>
  <br>
  <br>
