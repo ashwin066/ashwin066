@@ -20,8 +20,8 @@
         <li>📫 How to reach me **ashwinramesh660@gmail.com**</li>
       </ul>
     </td>
-    <td valign="top">
-               <img src="https://github.com/ashwin066/ashwin066/assets/93830211/60fe0b0a-dec6-416c-b173-2e59ec5d6a81" alt="ashwin_r06" />
+    <td valign="top"> 
+               <img src="https://github.com/ashwin066/ashwin066/assets/93830211/a437ea82-c8ec-4b32-96c7-cab51fb265b3" alt="ashwin_r06" />
     </td>
        </tr>
        </table>
