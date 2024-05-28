@@ -15,7 +15,7 @@
       </p>
       <ul>
         <li>🌱 I’m currently working on **App/Web Development, Flutter, React, React Native, Java, Typescript, Next JS, Express, Node JS**</li>
-        <li>👨‍💻 All of my projects are available at <a href="https://ashwin-ramesh.web.app/">https://ashwin-ramesh.web.app/</a></li>
+        <li>👨‍💻 All of my projects are showcased at <a href="https://ashwin-ramesh.web.app/">https://ashwin-ramesh.web.app/</a></li>
         <li>💬 Ask me about **Flutter, React, React Native, Java, Typescript, Next JS, Express, Node JS ...**</li>
         <li>📫 How to reach me **ashwinramesh660@gmail.com**</li>
       </ul>
