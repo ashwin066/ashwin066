@@ -5,30 +5,11 @@
 <h3 align="center">A passionate App/Web developer</h3> 
 
 
- <div style="display: flex; align-items: flex-start;">
-
-  <div style="align-self: flex-start;">
-    <p align="left"> <a href="https://twitter.com/ashwin_r06" target="blank"><img src="https://img.shields.io/twitter/follow/ashwin_r06?logo=twitter&style=for-the-badge" alt="ashwin_r06" /></a> </p>
-
-    <ul>
-      <li>🌱 I’m currently working on <strong>App/Web Development, Flutter, React, React Native, Java, Typescript, Next JS, Express, Node JS</strong></li>
-      <li>👨‍💻 All of my projects are available at <a href="https://ashwin-ramesh.web.app/">https://ashwin-ramesh.web.app/</a></li>
-      <li>💬 Ask me about <strong>Flutter, React, React Native, Java, Typescript, Next JS, Express, Node JS</strong></li>
-      <li>📫 How to reach me <a href="mailto:ashwinramesh660@gmail.com">ashwinramesh660@gmail.com</a></li>
-    </ul>
-  </div>
-
-  <div style="align-self: flex-start;">
-    <img src="https://github.com/ashwin066/ashwin066/assets/93830211/25cf4970-7725-4db5-b6e9-e084b4e2118b" alt="image">
-  </div>
-
-</div>
+ 
 
 
-<table >
-  <tr >
-    <td valign="top">
-      <p align="left">
+<p >
+        <p align="left">
         <a href="https://twitter.com/ashwin_r06" target="blank">
           <img src="https://img.shields.io/twitter/follow/ashwin_r06?logo=twitter&style=for-the-badge" alt="ashwin_r06" />
         </a>
@@ -39,12 +20,8 @@
         <li>💬 Ask me about **Flutter, React, React Native, Java, Typescript, Next JS, Express, Node JS ...**</li>
         <li>📫 How to reach me **ashwinramesh660@gmail.com**</li>
       </ul>
-    </td>
-    <td valign="top"> 
-               <img src="https://github.com/ashwin066/ashwin066/assets/93830211/b635d136-5d95-4c16-af7d-70e4a33b002b" alt="ashwin_r06" />
-    </td>
-       </tr>
-       </table>
+                 <img src="https://github.com/ashwin066/ashwin066/assets/93830211/b635d136-5d95-4c16-af7d-70e4a33b002b" alt="ashwin_r06" />
+  </p>
 
 
  
