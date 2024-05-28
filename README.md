@@ -3,7 +3,11 @@
 
 <h1 align="center">Hi 👋, I'm Ashwin Ramesh</h1>
 <h3 align="center">A passionate App/Web developer</h3>
- 
+ <style>
+td, th {
+   border: none!important;
+}
+</style>
 
 <table border=0>
   <tr>
