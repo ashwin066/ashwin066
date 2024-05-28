@@ -9,10 +9,10 @@
 
 
 <p >
-        <p align="left">
+        <p align="left" >
         <a href="https://twitter.com/ashwin_r06" target="blank">
           <img src="https://img.shields.io/twitter/follow/ashwin_r06?logo=twitter&style=for-the-badge" alt="ashwin_r06" />
-        </a>
+        </a>                 <img src="https://github.com/ashwin066/ashwin066/assets/93830211/b635d136-5d95-4c16-af7d-70e4a33b002b" alt="ashwin_r06" />
       </p>
       <ul>
         <li>🌱 I’m currently working on **App/Web Development, Flutter, React, React Native, Java, Typescript, Next JS, Express, Node JS**</li>
@@ -20,7 +20,6 @@
         <li>💬 Ask me about **Flutter, React, React Native, Java, Typescript, Next JS, Express, Node JS ...**</li>
         <li>📫 How to reach me **ashwinramesh660@gmail.com**</li>
       </ul>
-                 <img src="https://github.com/ashwin066/ashwin066/assets/93830211/b635d136-5d95-4c16-af7d-70e4a33b002b" alt="ashwin_r06" />
   </p>
 
 
