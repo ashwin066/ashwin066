@@ -44,6 +44,13 @@
 # 📊 GitHub Stats:
  
  <p >
-     <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwin066&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" height="170"  />
-     <img  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwin066&theme=dark" alt="GitHub Streak" height="170" />
+     <img  align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwin066&theme=dark&hide_border=true" alt="Top Languages" height="170"  />
+     <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin066&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Streak" height="170" />
  </p>
+
+
+ ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
