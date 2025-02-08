@@ -9,7 +9,7 @@
  
  <h3 align="center">A passionate App/Web developer</h3> 
       <img align="right"   width="310"  src="https://github.com/ashwin066/ashwin066/assets/93830211/2a97aa26-f559-4053-8d17-57bf2de6bf81" alt="ashwin_r66" />
-<p align="left"> <a href="https://www.linkedin.com/in/ashwinramesh660/" target="blank"><img src="https://img.shields.io/twitter/follow/ashwin_r66?logo=linkedin&style=for-the-badge" alt="ashwin_r66" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/ashwinramesh660/" target="blank"><img src="https://img.shields.io/twitter/follow/ashwin%20ramesh?style=for-the-badge" alt="Ashwin Ramesh" /></a> </p>
  
 - 🌱 I’m currently working on **App/Web Development, Flutter, React, React Native, Java, Typescript, Next JS, Express, Node JS**
 
